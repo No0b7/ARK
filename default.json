@@ -1,0 +1,28 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 30,
+        "IconURL": "",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Button 1</>",
+          "title1": "Willkommen bei der Affenbande!",
+          "text1": "Willkommen auf dem Server der Affenbande.\nDies ist noch ein neuer Server und wird stetig erweitert und an die Wünsche unserer User angepasst. Gerne installieren wir auch Ihre Wunschmods, wenn Sie zum Server passen. Gerne einfach anfragen.",
+          "imageurl": ""
+        }
+      }
+    ],
+    "links": [ ]
+  }
+}
