@@ -1,57 +1,45 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": true,
-        "HideIconAfter": 30,
-        "IconURL": "",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 30,
+            "IconURL": "",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
         "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,1,0,1\">Willkommen</>",
-          "title1": "Willkommen bei der Affenbande!",
-          "text1": "Moin und Herzlich Willkommen auf unserem,  vorerst, kleinen Server.\n
-Wir sind ein kleines Team was sich bemüht Ark vielseitiger und anspruchsvoller zu machen.\n
-Wir versuchen neue Herausforderungen ins Spiel zu bringen und euch dennoch die Möglichkeit bieten eine vernünftige Base oder auch kleines Dorf zu bauen.\n
-Wer Sorgen, Hilfe oder Anregungen hat kann uns gerne anschreiben via Discord oder auch hier auf dem Server. \n
-Meist sind wir Admins ab 18:00 Uhr online.\n\n
-
-Planung:\n
-Des weiteren haben wir vor den Server immer mal wieder zu erweitern sowie die DLC's herauskommen. Auch sind wor nicht abgeneigt neue Mods hinzuzufügen oder Änderungen vorzunehmen.\n\n
-
-Bis dahin habt viel Spaß beim überleben !\n\n
-
-Euer Admin Team",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Regeln</>",
-          "title1": "Server Regeln",
-          "text1": "Regel #1: Habt Spaß\negel #2: Respektiert andere Spieler und deren Territorien\nRegel #3: Keine Bugs verwenden\n",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
-          "title1": "Server Rules",
-          "text1": "Rule #1: Have Fun\nRule #2: Respect other players and their territories\nRule #3: Don't use bugs\n",
-          "imageurl": ""
-        }
-      }
-          }
-    ]    
-  }
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,1,0,1\">Willkommen</>",
+                    "title1": "Willkommen bei der Affenbande!",
+                    "text1": "Moin und Herzlich Willkommen auf unserem,  vorerst, kleinen Server.\nWir sind ein kleines Team was sich bemüht Ark vielseitiger und anspruchsvoller zu machen.\nWir versuchen neue Herausforderungen ins Spiel zu bringen und euch dennoch die Möglichkeit bieten eine vernünftige Base oder auch kleines Dorf zu bauen.\nWer Sorgen, Hilfe oder Anregungen hat kann uns gerne anschreiben via Discord oder auch hier auf dem Server. \nMeist sind wir Admins ab 18:00 Uhr online.\n\nPlanung:\nDes weiteren haben wir vor den Server immer mal wieder zu erweitern sowie die DLC's herauskommen. Auch sind wor nicht abgeneigt neue Mods hinzuzufügen oder Änderungen vorzunehmen.\n\nBis dahin habt viel Spaß beim überleben !\n\nEuer Admin Team",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Regeln</>",
+                    "title1": "Server Regeln",
+                    "text1": "Regel #1: Habt Spaß\negel #2: Respektiert andere Spieler und deren Territorien\nRegel #3: Keine Bugs verwenden\n",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
+                    "title1": "Server Rules",
+                    "text1": "Rule #1: Have Fun\nRule #2: Respect other players and their territories\nRule #3: Don't use bugs\n",
+                    "imageurl": ""
+                }
+            }
+        ]
+    }
 }
