@@ -47,10 +47,11 @@ Euer Admin Team",
           "layout": 3,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
           "title1": "Server Rules",
-          "text1": "Regel #1: Have Fun\nRegel #2: Respect other players and their territories\nRegel #3: Don't use bugs\n",
+          "text1": "Rule #1: Have Fun\nRule #2: Respect other players and their territories\nRule #3: Don't use bugs\n",
           "imageurl": ""
         }
       }
+          }
     ]    
   }
 }
