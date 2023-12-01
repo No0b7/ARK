@@ -27,7 +27,7 @@
 			  "layout": 1,
 						"buttontext": "<RichColor Color=\"1,0,0,1\">Regeln</>",
 						"title1": "Server Regeln",
-						"text1": "Regel #1: Habt Spaß\negel #2: Respektiert andere Spieler und deren Territorien\nRegel #3: Keine Bugs verwenden\n",
+						"text1": "Regel #1: Habt Spaß\nRegel #2: Respektiert andere Spieler und deren Territorien\nRegel #3: Keine Bugs verwenden\n",
 						"imageurl": ""
 			}
 		  },
