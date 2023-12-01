@@ -31,25 +31,26 @@ Bis dahin habt viel Spaß beim überleben !\n\n
 
 Euer Admin Team",
           "imageurl": ""
-        },
+        }
+      },
+        {
         "tab2": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,1,0,1\">Regeln</>",
           "title1": "Server Regeln",
-          "text1": "Regel #1: Habt Spaß\n
-                    Regel #2: Respektiert andere Spieler und deren Territorien\n
-                    Regel #3: Keine Bugs verwenden\n",
+          "text1": "Regel #1: Habt Spaß\negel #2: Respektiert andere Spieler und deren Territorien\nRegel #3: Keine Bugs verwenden\n",
           "imageurl": ""
-        },
+        }
+      },
+        {
         "tab3": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,1,1,1\">Rules</>",
           "title1": "Server Rules",
-          "text1": "Regel #1: Have Fun\n
-                    Regel #2: Respect other players and their territories\n
-                    Regel #3: Don't use bugs\n",
+          "text1": "Regel #1: Have Fun\nRegel #2: Respect other players and their territories\nRegel #3: Don't use bugs\n",
           "imageurl": ""
         }
+      }
       }
     ]
   }
