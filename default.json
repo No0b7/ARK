@@ -40,7 +40,17 @@
 						"imageurl": ""
 			}
 		  }      
-		]
+		],
+
+	    
+	    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/Tk6bAyxY"
+        }
+      }
+    ]
         
 	}
 }
